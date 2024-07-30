@@ -43,7 +43,7 @@ global.scan = "https://byte-session.vercel.app/";
 
 
 
-global.SESSION_ID =
+global.SESSION_ID = +254792281590
   process.env.SESSION_ID ||
 
 
@@ -57,7 +57,7 @@ global.SESSION_ID =
 
 
   
-  byte,,//github.com/Howkinshawks5/BYTE-MD/blob/main/config.js
+  byte,,+254792281590
 
 
 
