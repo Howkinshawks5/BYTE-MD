@@ -57,7 +57,7 @@ global.SESSION_ID =
 
 
   
-  "Your session ID" //Make sure session id starts with Byte;;;
+  byte,,//github.com/Howkinshawks5/BYTE-MD/blob/main/config.js
 
 
 
